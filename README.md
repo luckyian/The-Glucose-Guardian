@@ -1,4 +1,4 @@
-# The Glucose Guardian presented by the Guaridans of the Glucose
+# The Glucose Guardian presented by the Guardians of the Glucose
 
 
 * We acknowledge the repo is spelling incorrectly and we will create a new repo as we work on future developments
