@@ -171,7 +171,7 @@ export default function Dashboard() {
         }
         finalAvg = Math.floor(avgBSugar / testArr.length);
         console.log("Card rendering", finalAvg)
-        if (finalAvg < 80 || (121 < finalAvg && finalAvg < 161)) {
+        if (finalAvg < 80 && finalAvg > 0 || (121 < finalAvg && finalAvg < 161)) {
 
             setTestColorA("cardColorWarning");
             setStatementA("Your blood sugar is a little out of range.  Be sure to test often and track what you eat.");
