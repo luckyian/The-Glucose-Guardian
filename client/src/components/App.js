@@ -38,7 +38,7 @@ function App() {
                   <PrivateRoute exact path='/medschart' component={MedsChart} />
               </Switch>
           </Router>
-            <FooterComp/>
+            {/* <FooterComp/> */}
         </ScreenSize>
       </AuthProvider>
   );
