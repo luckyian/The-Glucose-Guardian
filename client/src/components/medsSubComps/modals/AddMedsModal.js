@@ -16,6 +16,7 @@ export default function MedsModal(props) {
 
     let potentialMeds = [
         "Humulin",
+        "Metformin",
         "Novolin",
         "NovoLog",
         "FlexPen",
